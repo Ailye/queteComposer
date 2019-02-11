@@ -1,0 +1,13 @@
+{
+    "name": "ailye/quete-composer",
+    "description": "quete WCS sur composer",
+    "authors": [
+        {
+            "name": "P-Hugo",
+            "email": "ph.meillot@gmail.com"
+        }
+    ],
+    "require": {
+        "ehime/hello-world": "^1.0"
+    }
+}
